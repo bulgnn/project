@@ -1,0 +1,1 @@
+{"registrationInfo":{"deviceId":"anon5eb9381f-1724-4228-a080-9093afe41fab","secret":"ef9ba8e2-16d6-421a-8d42-778cb2ae09e4","registered":true},"abTests":{"shotShareIcon":{"value":"exclude","gaField":"cd7","version":1},"downloadText":{"value":"exclude","gaField":"cd9","version":1}}}

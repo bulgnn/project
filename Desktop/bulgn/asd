@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main() {
+	int N, y;
+		cin >> y;
+		N=0;
+		N = 1 + 26 + 8 + y + y/4 - y/100 + y/400 + 2;
+		N = N % 7;
+		
+	return 0;
+}
